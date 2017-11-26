@@ -2,7 +2,7 @@
 
 ## Preview
 
-**[View Live Preview](https://http://www.nicolaspetrakis.com/)**
+**[View Live Preview](https://www.nicolaspetrakis.com/)**
 
 ## Copyright and License
 
